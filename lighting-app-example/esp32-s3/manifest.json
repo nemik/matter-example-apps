@@ -1,10 +1,10 @@
 {
-  "name": "Matter Lighting App Example for ESP32-C3-DevKitM-1",
+  "name": "Matter Lighting App Example for ESP32-S3-DevKit",
   "version": "8f66f42",
   "new_install_improv_wait_time": 0,
   "builds": [
     {
-      "chipFamily": "ESP32-C3",
+      "chipFamily": "ESP32-S3",
       "parts": [
         {
           "path": "bootloader.bin",
